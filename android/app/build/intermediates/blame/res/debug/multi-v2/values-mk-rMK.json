@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/john/projects/rn/AwesomeProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
+            "outputFile": "/jhon/map/React-native-map/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
             "map": [
                 {
-                    "source": "/home/john/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/732d5bfcc9777b54215e3ef3c24df527/res/values-mk-rMK/values-mk-rMK.xml",
+                    "source": "/home/desarrollador1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/084b600ccbb6610c1a1796f829450137/res/values-mk-rMK/values-mk-rMK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

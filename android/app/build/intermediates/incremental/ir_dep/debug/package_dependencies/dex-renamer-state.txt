@@ -1,0 +1,4 @@
+#Mon May 07 18:56:19 COT 2018
+base.0=/jhon/map/React-native-map/android/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
