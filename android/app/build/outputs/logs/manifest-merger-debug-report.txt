@@ -116,9 +116,9 @@ ADDED from /jhon/map/React-native-map/android/app/src/main/AndroidManifest.xml:2
 	android:name
 		ADDED from /jhon/map/React-native-map/android/app/src/main/AndroidManifest.xml:23:17-81
 meta-data#com.google.android.geo.API_KEY
-ADDED from /jhon/map/React-native-map/android/app/src/main/AndroidManifest.xml:26:7-28:64
+ADDED from /jhon/map/React-native-map/android/app/src/main/AndroidManifest.xml:26:7-28:25
 	android:value
-		ADDED from /jhon/map/React-native-map/android/app/src/main/AndroidManifest.xml:28:7-62
+		ADDED from /jhon/map/React-native-map/android/app/src/main/AndroidManifest.xml:28:7-23
 	android:name
 		ADDED from /jhon/map/React-native-map/android/app/src/main/AndroidManifest.xml:27:7-52
 uses-sdk
