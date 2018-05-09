@@ -56,3 +56,6 @@
     }
      classpath 'com.android.tools.build:gradle:3.0.1'
 ```
+
+8. el api key debe de tener habilitada "Maps SDK for Android"
+
