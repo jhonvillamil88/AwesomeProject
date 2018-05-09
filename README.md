@@ -30,10 +30,14 @@
              );
            }
  6. archivo: android/app/src/main/java/AndroidManifest.xml
-    <meta-data
+     
+   ' <meta-data
       android:name="com.google.android.geo.API_KEY"
-      android:value="AIzaSyCvp8eSlpefOHMcFelYll0QlJHB2tliP1s"/>
+      android:value="AIzaSyCvp8eSlpefOHMcFelYll0QlJHB2tliP1s"/>'
+      
+     
 7. archivo: android/build.gradle
+
     repositories {
         jcenter()
         google()
